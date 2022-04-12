@@ -6,5 +6,6 @@ public class Gittext {
         System.out.println("git text1");
         System.out.println("git text2");
         System.out.println("git text3");
+        System.out.println("git hot-fix");
     }
 }
