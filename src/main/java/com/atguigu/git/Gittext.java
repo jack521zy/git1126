@@ -8,5 +8,6 @@ public class Gittext {
         System.out.println("git text3");
         System.out.println("git master");
         System.out.println("git hot-fix");
+        System.out.println("git push");
     }
 }
