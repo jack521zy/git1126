@@ -9,5 +9,6 @@ public class Gittext {
         System.out.println("git master");
         System.out.println("git hot-fix");
         System.out.println("git push");
+        System.out.println("git push1");
     }
 }
