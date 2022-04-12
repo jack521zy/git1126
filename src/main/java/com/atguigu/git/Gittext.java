@@ -10,5 +10,6 @@ public class Gittext {
         System.out.println("git hot-fix");
         System.out.println("git push");
         System.out.println("git push1");
+        System.out.println("git pushtext");
     }
 }
